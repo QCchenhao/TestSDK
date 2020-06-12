@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		87E1E38C24934D6D00612900 /* Temp.m in Sources */ = {isa = PBXBuildFile; fileRef = 87E1E38B24934D6D00612900 /* Temp.m */; };
+		87E1E38F24934E1300612900 /* Temp22.m in Sources */ = {isa = PBXBuildFile; fileRef = 87E1E38E24934E1300612900 /* Temp22.m */; };
 		87F05599247668E700D11146 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 87F05598247668E700D11146 /* AppDelegate.m */; };
 		87F0559F247668E700D11146 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87F0559E247668E700D11146 /* ViewController.m */; };
 		87F055A2247668E700D11146 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87F055A0247668E700D11146 /* Main.storyboard */; };
@@ -21,6 +22,8 @@
 /* Begin PBXFileReference section */
 		87E1E38A24934D6D00612900 /* Temp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Temp.h; sourceTree = "<group>"; };
 		87E1E38B24934D6D00612900 /* Temp.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Temp.m; sourceTree = "<group>"; };
+		87E1E38D24934E1300612900 /* Temp22.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Temp22.h; sourceTree = "<group>"; };
+		87E1E38E24934E1300612900 /* Temp22.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Temp22.m; sourceTree = "<group>"; };
 		87F05594247668E700D11146 /* demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87F05597247668E700D11146 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		87F05598247668E700D11146 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -73,6 +76,8 @@
 				87F0559E247668E700D11146 /* ViewController.m */,
 				87E1E38A24934D6D00612900 /* Temp.h */,
 				87E1E38B24934D6D00612900 /* Temp.m */,
+				87E1E38D24934E1300612900 /* Temp22.h */,
+				87E1E38E24934E1300612900 /* Temp22.m */,
 				87F055A0247668E700D11146 /* Main.storyboard */,
 				87F055A6247668E900D11146 /* Assets.xcassets */,
 				87F055A8247668E900D11146 /* LaunchScreen.storyboard */,
@@ -184,6 +189,7 @@
 			files = (
 				87E1E38C24934D6D00612900 /* Temp.m in Sources */,
 				87F055AD247668EA00D11146 /* main.m in Sources */,
+				87E1E38F24934E1300612900 /* Temp22.m in Sources */,
 				87F0559F247668E700D11146 /* ViewController.m in Sources */,
 				87F05599247668E700D11146 /* AppDelegate.m in Sources */,
 				87F055A5247668E700D11146 /* demo.xcdatamodeld in Sources */,
