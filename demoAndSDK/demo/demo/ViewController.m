@@ -19,8 +19,10 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     [TestView testClass];
+
     NSLog(@"测试1");
     [Temp tempLOG];
+
 }
 
 
